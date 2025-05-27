@@ -368,10 +368,6 @@ We welcome contributions! Please follow these steps:
 - 📚 **Documentation**: Check `/docs` endpoint for API reference
 - 🔍 **Debugging**: Examine container logs for error details
 
-**Community Resources:**
-- GitHub Discussions for general questions
-- Stack Overflow with `telegram-indexer` tag
-- Discord community server (link in repository)
 
 ## 📝 License
 
@@ -380,4 +376,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 **Built with ❤️ using FastAPI, Celery, Elasticsearch, and Docker**
-# teleye
